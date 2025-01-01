@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💡 Contribute your idea: ...
 # codeliya: Your First Step into Programming
 
-Welcome to **codeliya**, the beginner-friendly platform designed to introduce you to the exciting world of programming! Whether you're just starting out or have little to no coding experience, **<\>odeliya** will help you understand the fundamentals of programming in a fun and engaging way.
+Welcome to **codeliya**, the beginner-friendly platform designed to introduce you to the exciting world of programming! Whether you're just starting out or have little to no coding experience, **codeliya** will help you understand the fundamentals of programming in a fun and engaging way.
 
 ## 🚀 What is codeliya?
 
@@ -21,7 +21,7 @@ Welcome to **codeliya**, the beginner-friendly platform designed to introduce yo
 
 ## 🌱 Why codeliya?
 
-If you're feeling overwhelmed by coding jargon and complicated tutorials, you're not alone! We understand that beginners need clear guidance, and **<\>odeliya** offers just that:
+If you're feeling overwhelmed by coding jargon and complicated tutorials, you're not alone! We understand that beginners need clear guidance, and **codeliya** offers just that:
 - **Step-by-step lessons** to introduce programming basics.
 - **Interactive examples** to practice what you learn.
 - **Engaging challenges** to reinforce key concepts.
@@ -65,15 +65,15 @@ To contribute:
 
 Follow us to get the latest updates, new tutorials, and features:
 
-- **Website**: [Codeliya](https://codeliya.github.io) *(Here you can find more information)*
-- **Twitter**: [@Codeliya](https://twitter.com/Codeliya) *(Follow for updates)*
-- **GitHub**: [Codeliya GitHub](https://github.com/codeliya) *(Follow for code updates)*
+- **Website**: [![Visit](https://img.shields.io/badge/Visit-7D2AE8)](https://codeliya.github.io) *(Here you can find more information)*
+- **GitHub**: [![Visit](https://img.shields.io/badge/Visit-7D2AE8)](https://github.com/codeliya) *(Follow for code updates)*
 
 ---
 
 ## 💬 Have Suggestions or Feedback?
 
-If you have suggestions, questions, or want to share your learning experience, please [open an issue](https://github.com/codeliya/<\>odeliya/issues) or reach out to us directly.
+If you have suggestions, questions, or want to share your learning experience, please [open an issue][![Issues](https://img.shields.io/github/issues/codeliya/codeliya.svg)](https://github.com/codeliya/codeliya/issues)
+ or reach out to us directly.
 
 Let's build a community of learners who support and grow together. 🌱
 
