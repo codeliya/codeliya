@@ -1,3 +1,18 @@
+<div align="center">
+
+[![][logo-url]][repo-url]  
+
+**Free Tailwind CSS Components** 
+
+<a href="https://github.com/codeliya">
+ 
+![Follow](https://img.shields.io/badge/Follow-white)
+ 
+ <\a>
+</div>
+
+[logo-url]: https://codeliya.github.io/scripts/codeliya_logo.png
+[repo-url]: https://github.com/codeliya/
 ## Hi there 👋
  
 Here are some ideas to get you started:
@@ -11,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💡 Contribute your idea: ...
-# codeliya: Your First Step into Programming
+# Codeliya: Your First Step into Programming
 
 Welcome to **codeliya**, the beginner-friendly platform designed to introduce you to the exciting world of programming! Whether you're just starting out or have little to no coding experience, **codeliya** will help you understand the fundamentals of programming in a fun and engaging way.
 
@@ -72,7 +87,8 @@ Follow us to get the latest updates, new tutorials, and features:
 
 ## 💬 Have Suggestions or Feedback?
 
-If you have suggestions, questions, or want to share your learning experience, please [open an issue][![Issues](https://img.shields.io/github/issues/codeliya/codeliya.svg)](https://github.com/codeliya/codeliya/issues)
+If you have suggestions, questions, or want to share your learning experience,
+please open[![Issues](https://img.shields.io/github/issues/codeliya/codeliya.svg)](https://github.com/codeliya/codeliya/issues)
  or reach out to us directly.
 
 Let's build a community of learners who support and grow together. 🌱
