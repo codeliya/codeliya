@@ -4,11 +4,8 @@
 
 **Free Tailwind CSS Components** 
 
-<a href="https://github.com/codeliya">
- 
-![Follow](https://img.shields.io/badge/Follow-white)
- 
- <\a>
+[![Visit](https://img.shields.io/badge/Follow-FFF)](https://github.com/codeliya)
+
 </div>
 
 [logo-url]: https://codeliya.github.io/scripts/codeliya_logo.png
