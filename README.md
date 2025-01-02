@@ -2,7 +2,7 @@
 
 [![][logo-url]][repo-url]  
 
-**Free Tailwind CSS Components** 
+**This is the time to come together and do something.** 
 
 [![Visit](https://img.shields.io/badge/Follow-FFF)](https://github.com/codeliya)
 
